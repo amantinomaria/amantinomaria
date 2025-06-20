@@ -9,10 +9,11 @@
   <img align="center" alt="Maria-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Maria-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Maria-Matplotlib" height="30" width="40" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg">
+  <img align="center" alt="Maria-Matplotlib" height="30" width="40" src="https://matplotlib.org/stable/_static/logo2_compressed.svg">
   <img align="center" alt="Maria-Sklearn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
   <img align="center" alt="Maria-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 </div>
+
 
 ---
 
