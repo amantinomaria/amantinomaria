@@ -5,13 +5,14 @@
 
 ### 🧠 Skills
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Maria-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Maria-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Maria-Matplotlib" height="30" width="40" src="https://matplotlib.org/stable/_static/logo2_compressed.svg">
-  <img align="center" alt="Maria-Sklearn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-  <img align="center" alt="Maria-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+  <img align="center" alt="Maria-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Maria-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
+  <img align="center" alt="Maria-GoogleSheets" height="30" width="40" src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg">
+</div>
+
 </div>
 
 
