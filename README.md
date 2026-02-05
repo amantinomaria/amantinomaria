@@ -10,7 +10,7 @@
   <img align="center" alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Maria-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Maria-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
-  <img align="center" alt="Maria-GoogleSheets" height="30" width="40" src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg">
+  <img align="center" alt="Maria-n8n" height="30" width="40" src="https://avatars.githubusercontent.com/u/39639486?s=200&v=4">
 </div>
 
 </div>
