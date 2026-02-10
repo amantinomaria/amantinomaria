@@ -19,7 +19,7 @@
 ## 📊 My projects:
 
 ### **Nike Sales Analysis & Report Generator**
-[![View Project](https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github)](https://github.com/amantinomaria/amantinomaria/tree/main/Relat%C3%B3rio%20de%20vendas%20Nike)
+[![View Project](https://img.shields.io/badge/View_Project-blue?style=for-the-badge)](https://github.com/amantinomaria/amantinomaria/tree/main/Relat%C3%B3rio%20de%20vendas%20Nike)
 
 **Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `ReportLab` `Data Visualization`
 
