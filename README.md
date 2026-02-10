@@ -24,6 +24,7 @@
 **Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `ReportLab` `Data Visualization`
 
 **Project Overview:** A comprehensive sales data analysis system that automatically processes Nike sales data and generates insightful visualizations.
+
 **Key Features:**
 - ✅ Automated data processing and cleaning
 - ✅ 7+ professional visualizations (revenue by region, product category, time trends)
@@ -33,6 +34,7 @@
 
 ### **Bookstore Database Management System - Academic Project**
 [![View Project](https://img.shields.io/badge/View_Project-blue?style=for-the-badge)](https://github.com/amantinomaria/BDLIVRARIA)
+
 **Tech Stack:** `MySQL` `Database Design` `SQL Queries` `ER Diagrams` `Normalization` `Process Documentation`
 
 **Project Overview:** A comprehensive academic database project developed for a **fictional bookstore** as part of university coursework. The system manages all aspects of bookstore operations including inventory, sales, customers, suppliers, and employees with complete process documentation.
