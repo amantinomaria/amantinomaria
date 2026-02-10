@@ -32,7 +32,6 @@
 
 ### **Bookstore Database Management System - Academic Project**
 [![View Project](https://img.shields.io/badge/View_Project-Repository-green?style=for-the-badge)](https://github.com/amantinomaria/BDLIVRARIA)
-[![University Project](https://img.shields.io/badge/🏫-Academic_Project-blue?style=for-the-badge)]()
 **Tech Stack:** `MySQL` `Database Design` `SQL Queries` `ER Diagrams` `Normalization` `Process Documentation`
 **Project Overview:** A comprehensive academic database project developed for a **fictional bookstore** as part of university coursework. The system manages all aspects of bookstore operations including inventory, sales, customers, suppliers, and employees with complete process documentation.
 **📋 Complete Project Documentation Included:**
